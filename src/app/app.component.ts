@@ -6,5 +6,22 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'AirTravel';
+  refinedPrice: string = "700";
+  display: boolean = false;
+  title = 'app';
+  fly: boolean = false;
+
+  public setRefinedPrice(event) {
+    this.refinedPrice = event;
+  }
+
+  public setDisplay(event) {
+    this.display = event;
+  }
+  /**
+   * Animation on book click
+   */
+  public updateFlying(fly: boolean) {
+    this.fly = fly;
+  }
 }

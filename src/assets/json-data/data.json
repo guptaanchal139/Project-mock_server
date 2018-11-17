@@ -1,0 +1,422 @@
+{
+	"flights":[
+	   {
+		  "flightNo":"MS-902",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"sydney",
+		  "time":{
+			 "depart":"2018-11-26 09:00:00",
+			 "arrive":"2018-11-26 10:30:00"
+		  },
+		  "date":"2018-11-26 09:00:00",
+		  "amount":"100.00"
+	   },
+	   {
+		  "flightNo":"MS-903",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"sydney",
+		  "time":{
+			 "depart":"2018-11-26 14:30:00",
+			 "arrive":"2018-11-26 16:00:00"
+		  },
+		  "date":"2018-11-26 03:30:00",
+		  "amount":"95.00"
+	   },
+	   {
+		  "flightNo":"MS-904",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"sydney",
+		  "time":{
+			 "depart":"2018-11-26 17:00:00",
+			 "arrive":"2018-11-26 18:30:00"
+		  },
+		  "date":"2018-11-26 17:00:00",
+		  "amount":"200.00"
+	   },
+	   {
+		  "flightNo":"SM-999",
+		  "departureCity":"sydney",
+		  "arrivalCity":"melbourne",
+		  "time":{
+			 "depart":"2018-11-27 07:00:00",
+			 "arrive":"2018-11-27 08:30:00"
+		  },
+		  "date":"2018-11-27 07:00:00",
+		  "amount":"180.00"
+	   },
+	   {
+		  "flightNo":"SM-987",
+		  "departureCity":"sydney",
+		  "arrivalCity":"melbourne",
+		  "time":{
+			 "depart":"2018-11-27 11:00:00",
+			 "arrive":"2018-11-27 12:30:00"
+		  },
+		  "date":"2018-11-27 11:00:00",
+		  "amount":"280.00"
+	   },
+	   {
+		  "flightNo":"SM-876",
+		  "departureCity":"sydney",
+		  "arrivalCity":"melbourne",
+		  "time":{
+			 "depart":"2018-11-27 15:30:00",
+			 "arrive":"2018-11-27 17:00:00"
+		  },
+		  "date":"2018-11-27 15:30:00",
+		  "amount":"60.00"
+	   },
+	   {
+		  "flightNo":"SM-543",
+		  "departureCity":"sydney",
+		  "arrivalCity":"melbourne",
+		  "time":{
+			 "depart":"2018-11-27 20:00:00",
+			 "arrive":"2018-11-27 21:30:00"
+		  },
+		  "date":"2018-11-27 20:00:00",
+		  "amount":"370.00"
+	   },
+	   {
+		  "flightNo":"MS-902",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"sydney",
+		  "time":{
+			 "depart":"2018-11-28 09:00:00",
+			 "arrive":"2018-11-28 10:30:00"
+		  },
+		  "date":"2018-11-28 09:00:00",
+		  "amount":"100.00"
+	   },
+	   {
+		  "flightNo":"MS-903",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"sydney",
+		  "time":{
+			 "depart":"2018-11-28 14:30:00",
+			 "arrive":"2018-11-28 16:00:00"
+		  },
+		  "date":"2018-11-28 03:30:00",
+		  "amount":"95.00"
+	   },
+	   {
+		  "flightNo":"MS-904",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"sydney",
+		  "time":{
+			 "depart":"2018-11-28 17:00:00",
+			 "arrive":"2018-11-28 18:30:00"
+		  },
+		  "date":"2018-11-28 17:00:00",
+		  "amount":"200.00"
+	   },
+	   {
+		  "flightNo":"MB-113",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"brisbane",
+		  "time":{
+			 "depart":"2018-11-26 11:50:00",
+			 "arrive":"2018-11-26 14:20:00"
+		  },
+		  "date":"2018-11-26 11:50:00",
+		  "amount":"280.00"
+	   },
+	   {
+		  "flightNo":"MB-114",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"brisbane",
+		  "time":{
+			 "depart":"2018-11-26 14:00:00",
+			 "arrive":"2018-11-26 16:15:00"
+		  },
+		  "date":"2018-11-26 14:00:00",
+		  "amount":"240.00"
+	   },
+	   {
+		  "flightNo":"MB-115",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"brisbane",
+		  "time":{
+			 "depart":"2018-11-26 19:40:00",
+			 "arrive":"2018-11-26 22:00:00"
+		  },
+		  "date":"2018-11-26 19:40:00",
+		  "amount":"360.00"
+	   },
+	   {
+		  "flightNo":"MB-113",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"brisbane",
+		  "time":{
+			 "depart":"2018-11-27 11:50:00",
+			 "arrive":"2018-11-27 14:20:00"
+		  },
+		  "date":"2018-11-27 11:50:00",
+		  "amount":"280.00"
+	   },
+	   {
+		  "flightNo":"MB-114",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"brisbane",
+		  "time":{
+			 "depart":"2018-11-27 14:00:00",
+			 "arrive":"2018-11-27 16:15:00"
+		  },
+		  "date":"2018-11-27 14:00:00",
+		  "amount":"190.00"
+	   },
+	   {
+		  "flightNo":"MB-116",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"brisbane",
+		  "time":{
+			 "depart":"2018-11-27 15:00:00",
+			 "arrive":"2018-11-27 17:30:00"
+		  },
+		  "date":"2018-11-27 15:00:00",
+		  "amount":"420.00"
+	   },
+	   {
+		  "flightNo":"MB-115",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"brisbane",
+		  "time":{
+			 "depart":"2018-11-27 19:40:00",
+			 "arrive":"2018-11-27 22:00:00"
+		  },
+		  "date":"2018-11-27 19:40:00",
+		  "amount":"300.00"
+	   },
+	   {
+		  "flightNo":"MB-117",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"brisbane",
+		  "time":{
+			 "depart":"2018-11-28 06:00:00",
+			 "arrive":"2018-11-28 08:30:00"
+		  },
+		  "date":"2018-11-28 06:00:00",
+		  "amount":"140.00"
+	   },
+	   {
+		  "flightNo":"MB-113",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"brisbane",
+		  "time":{
+			 "depart":"2018-11-28 11:50:00",
+			 "arrive":"2018-11-28 14:20:00"
+		  },
+		  "date":"2018-11-28 11:50:00",
+		  "amount":"280.00"
+	   },
+	   {
+		  "flightNo":"MB-114",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"brisbane",
+		  "time":{
+			 "depart":"2018-11-28 14:00:00",
+			 "arrive":"2018-11-28 16:15:00"
+		  },
+		  "date":"2018-11-28 14:00:00",
+		  "amount":"190.00"
+	   },
+	   {
+		  "flightNo":"MB-116",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"brisbane",
+		  "time":{
+			 "depart":"2018-11-28 15:00:00",
+			 "arrive":"2018-11-28 17:30:00"
+		  },
+		  "date":"2018-11-28 15:00:00",
+		  "amount":"420.00"
+	   },
+	   {
+		  "flightNo":"MB-115",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"brisbane",
+		  "time":{
+			 "depart":"2018-11-28 19:40:00",
+			 "arrive":"2018-11-28 22:00:00"
+		  },
+		  "date":"2018-11-28 19:40:00",
+		  "amount":"300.00"
+	   },
+	   {
+		  "flightNo":"BM-714",
+		  "departureCity":"brisbane",
+		  "arrivalCity":"melbourne",
+		  "time":{
+			 "depart":"2018-11-27 10:00:00",
+			 "arrive":"2018-11-27 12:30:00"
+		  },
+		  "date":"2018-11-27 10:00:00",
+		  "amount":"300.00"
+	   },
+	   {
+		  "flightNo":"BM-715",
+		  "departureCity":"brisbane",
+		  "arrivalCity":"melbourne",
+		  "time":{
+			 "depart":"2018-11-27 18:20:00",
+			 "arrive":"2018-11-27 20:40:00"
+		  },
+		  "date":"2018-11-27 18:20:00",
+		  "amount":"230.00"
+	   },
+	   {
+		  "flightNo":"BM-714",
+		  "departureCity":"brisbane",
+		  "arrivalCity":"melbourne",
+		  "time":{
+			 "depart":"2018-11-28 10:00:00",
+			 "arrive":"2018-11-28 12:30:00"
+		  },
+		  "date":"2018-11-28 10:00:00",
+		  "amount":"300.00"
+	   },
+	   {
+		  "flightNo":"BM-716",
+		  "departureCity":"brisbane",
+		  "arrivalCity":"melbourne",
+		  "time":{
+			 "depart":"2018-11-28 13:00:00",
+			 "arrive":"2018-11-28 15:30:00"
+		  },
+		  "date":"2018-11-28 13:00:00",
+		  "amount":"160.00"
+	   },
+	   {
+		  "flightNo":"BM-717",
+		  "departureCity":"brisbane",
+		  "arrivalCity":"melbourne",
+		  "time":{
+			 "depart":"2018-11-28 16:20:00",
+			 "arrive":"2018-11-28 19:00:00"
+		  },
+		  "date":"2018-11-28 16:20:00",
+		  "amount":"400.00"
+	   },
+	   {
+		  "flightNo":"BM-715",
+		  "departureCity":"brisbane",
+		  "arrivalCity":"melbourne",
+		  "time":{
+			 "depart":"2018-11-28 18:20:00",
+			 "arrive":"2018-11-28 20:40:00"
+		  },
+		  "date":"2018-11-28 18:20:00",
+		  "amount":"230.00"
+	   },
+	   {
+		  "flightNo":"MA-503",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"adelaide",
+		  "time":{
+			 "depart":"2018-11-27 11:00:00",
+			 "arrive":"2018-11-27 12:20:00"
+		  },
+		  "date":"2018-11-27 03:30:00",
+		  "amount":"120.00"
+	   },
+	   {
+		  "flightNo":"MA-504",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"adelaide",
+		  "time":{
+			 "depart":"2018-11-27 17:00:00",
+			 "arrive":"2018-11-27 18:25:00"
+		  },
+		  "date":"2018-11-27 03:30:00",
+		  "amount":"190.00"
+	   },
+	   {
+		  "flightNo":"MA-503",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"adelaide",
+		  "time":{
+			 "depart":"2018-11-28 11:00:00",
+			 "arrive":"2018-11-28 12:20:00"
+		  },
+		  "date":"2018-11-28 03:30:00",
+		  "amount":"120.00"
+	   },
+	   {
+		  "flightNo":"MA-504",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"adelaide",
+		  "time":{
+			 "depart":"2018-11-28 17:00:00",
+			 "arrive":"2018-11-28 18:25:00"
+		  },
+		  "date":"2018-11-28 03:30:00",
+		  "amount":"190.00"
+	   },
+	   {
+		  "flightNo":"AM-511",
+		  "departureCity":"adelaide",
+		  "arrivalCity":"melbourne",
+		  "time":{
+			 "depart":"2018-11-29 13:00:00",
+			 "arrive":"2018-11-29 14:25:00"
+		  },
+		  "date":"2018-11-29 03:30:00",
+		  "amount":"180.00"
+	   },
+	   {
+		  "flightNo":"AM-512",
+		  "departureCity":"adelaide",
+		  "arrivalCity":"melbourne",
+		  "time":{
+			 "depart":"2018-11-29 17:00:00",
+			 "arrive":"2018-11-29 18:20:00"
+		  },
+		  "date":"2018-11-29 17:00:00",
+		  "amount":"280.00"
+	   },
+	   {
+		  "flightNo":"MP-801",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"perth",
+		  "time":{
+			 "depart":"2018-11-26 10:00:00",
+			 "arrive":"2018-11-26 14:30:00"
+		  },
+		  "date":"2018-11-26 10:00:00",
+		  "amount":"400.00"
+	   },
+	   {
+		  "flightNo":"MP-802",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"perth",
+		  "time":{
+			 "depart":"2018-11-26 16:00:00",
+			 "arrive":"2018-11-26 20:25:00"
+		  },
+		  "date":"2018-11-26 16:00:00",
+		  "amount":"580.00"
+	   },
+	   {
+		  "flightNo":"MP-802",
+		  "departureCity":"melbourne",
+		  "arrivalCity":"perth",
+		  "time":{
+			 "depart":"2018-11-28 16:00:00",
+			 "arrive":"2018-11-28 20:25:00"
+		  },
+		  "date":"2018-11-28 16:00:00",
+		  "amount":"580.00"
+	   },
+	   {
+		  "flightNo":"PM-803",
+		  "departureCity":"perth",
+		  "arrivalCity":"melbourne",
+		  "time":{
+			 "depart":"2018-11-27 12:00:00",
+			 "arrive":"2018-11-27 16:20:00"
+		  },
+		  "date":"2018-11-27 12:00:00",
+		  "amount":"390.00"
+	   }
+	]
+ }
