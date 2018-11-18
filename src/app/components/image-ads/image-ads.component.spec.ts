@@ -19,7 +19,14 @@ describe('ImageAdsComponent', () => {
     fixture.detectChanges();
   });
 
-  it('should create', () => {
+  it('should create Image component', () => {
     expect(component).toBeTruthy();
   });
+
+  it(`should have a div component with class inner-container`, () => {
+    const fixture = TestBed.createComponent(ImageAdsComponent);
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('div.inner-container')).toBeTruthy();
+  });
+
 });

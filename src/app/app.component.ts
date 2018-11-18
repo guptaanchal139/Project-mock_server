@@ -8,7 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   refinedPrice: string = "700";
   display: boolean = false;
-  title = 'app';
   fly: boolean = false;
 
   public setRefinedPrice(event) {

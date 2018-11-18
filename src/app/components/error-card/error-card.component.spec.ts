@@ -19,7 +19,14 @@ describe('ErrorCardComponent', () => {
     fixture.detectChanges();
   });
 
-  it('should create', () => {
+  it('should create ErrorCard component', () => {
     expect(component).toBeTruthy();
+  });
+
+  it('should render no flights found text in h1 tag', () => {
+    const fixture = TestBed.createComponent(ErrorCardComponent);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Oops! No Flights Found.Please try to make a different selection.');
   });
 });

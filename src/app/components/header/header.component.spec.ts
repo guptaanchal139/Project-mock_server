@@ -19,7 +19,21 @@ describe('HeaderComponent', () => {
     fixture.detectChanges();
   });
 
-  it('should create', () => {
+  it('should create Header component', () => {
     expect(component).toBeTruthy();
   });
+
+  it(`should have as title 'Air Travel'`, () => {
+    const fixture = TestBed.createComponent(HeaderComponent);
+    const app = fixture.debugElement.componentInstance;
+    expect(app.title).toEqual('Air Travel');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(HeaderComponent);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Air Travel');
+  });
+  
 });

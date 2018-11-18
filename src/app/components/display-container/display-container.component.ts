@@ -39,7 +39,6 @@ export class DisplayContainerComponent implements OnInit {
   sum() {
     if (this.fly1Way != undefined && this.fly2Way != undefined) {
       this.total = parseFloat(this.fly1Way.amount) + parseFloat(this.fly2Way.amount);
-      console.log("amount", this.total)
     }
   }
 

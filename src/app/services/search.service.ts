@@ -89,7 +89,7 @@ export class SearchService {
    * @param flightData;
    * @param searchParams;
    */
-  private getMatchingFlights(flightData: any, searchParams: BookingDetails): Flights[] {
+  public getMatchingFlights(flightData: any, searchParams: BookingDetails): Flights[] {
     const filteredItmes: Flights[] = [];
     this.dataFound = false;
     /* split the date and miliseconds into a new array and return the number of miliseconds between january 1, 1970 and the fetched date */
