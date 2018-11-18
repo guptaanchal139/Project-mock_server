@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl : `./assets/json-data/data.json`
+  apiUrl : 'http://localhost:3000/flightdata'
 };
 
 /*
